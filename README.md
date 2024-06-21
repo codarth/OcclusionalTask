@@ -9,6 +9,7 @@
 - **Throw:** *Hold 1 Second* X / Top Button
 
 ## How to Play
+- Find the well (Pull the lever).
 - Find the Coin on the ground. Grab it by looking at it and holding the Left or Right Hand button.
 - Take it over to the Wishing Well. Drop it in to recieve a ball.
 - Use the ball in the cannon or throw it at the can stack (or, *secret reveal* drop it in the well).
