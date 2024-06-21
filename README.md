@@ -20,6 +20,8 @@
 
 Hint: The coin will always reappear somewhere. Check the floor.
 
+Caution: Balls that role down the ramp will be deleted if not caught (hence the hand cart).
+
 ---
 
 I did not focus on the Environment or the assets, therefore the map is a single room and the props are made up of primitive objects.
