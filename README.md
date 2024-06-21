@@ -19,6 +19,7 @@
 - To throw the ball (or anything else you can hold) hold the Throw (X) button for a second. Upon release of the button the object will be thrown.
 
 Hint: The coin will always reappear somewhere. Check the floor.
+Caution: Balls that role down the ramp will be deleted if not caught (hence the hand cart).
 
 ---
 
